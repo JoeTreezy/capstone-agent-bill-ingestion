@@ -1,0 +1,8 @@
+.venv
+google_service_key.json
+config.py
+extraction.py
+ingestion_transform.py
+line_resolution.py
+resolution.py
+run_first_test.py
